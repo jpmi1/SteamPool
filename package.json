@@ -1,0 +1,21 @@
+{
+  "name": "Steam Pool",
+  "productName": "SteamPool",
+  "identifier": "com.steampool",
+  "description": "Earn money by sharing your extra processing power",
+  "version": "0.0.1",
+  "author": "SteamPool <jp@steampool.com>",
+  "main": "main.js",
+  "config": {
+    "target": "release",
+    "versionCheckURL": "https://raw.githubusercontent.com/jpmi1/SteamPool/master/package.json"
+  },
+  "dependencies": {
+    "electron-safe-ipc": "^0.6.1",
+    "request": "^2.63.0",
+    "sudo-prompt": "^1.1.7",
+    "tree-kill": "^0.1.1",
+    "terminate": "^1.0.6",
+    "yargs": "^3.15.0"
+  }
+}
