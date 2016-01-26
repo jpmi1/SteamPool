@@ -10,4 +10,6 @@
     "target": "release",
     "versionCheckURL": "https://raw.githubusercontent.com/jpmi1/SteamPool/master/package.json"
   },
+  "dependencies": {
+  }
 }
