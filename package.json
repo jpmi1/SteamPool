@@ -3,7 +3,7 @@
   "productName": "SteamPool",
   "identifier": "com.steampool",
   "description": "Earn money by sharing your extra processing power",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "author": "SteamPool <jp@steampool.com>",
   "main": "main.js",
   "config": {
